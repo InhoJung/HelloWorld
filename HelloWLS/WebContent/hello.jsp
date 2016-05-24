@@ -7,6 +7,6 @@
 <title>Hello Inho Jung</title>
 </head>
 <body>
-<%="Hello Inho sir." %>
+<%="Hello, Mr. Inho sir." %>
 </body>
 </html>
